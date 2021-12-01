@@ -30,3 +30,4 @@ Route::delete('deleteCategoria/{id}','App\Http\Controllers\categoriacontroller@d
 
 
 //php artisan para correr elprograma en terminal
+//prubea
